@@ -1,0 +1,12 @@
+{
+  "mainnet": {
+    "url": "https://rpc.mainnet.chain.robinhood.com",
+    "chain_id": 4663,
+    "latest_block": 115641595
+  },
+  "testnet": {
+    "url": "https://rpc.testnet.chain.robinhood.com",
+    "chain_id": 46630,
+    "latest_block": 154012332
+  }
+}

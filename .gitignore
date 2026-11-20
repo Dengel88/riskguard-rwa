@@ -1,0 +1,33 @@
+# Dependencies & build outputs
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+foundry-lab/out/
+foundry-lab/cache/
+foundry-lab/broadcast/
+
+# Secrets & environment files (NEVER COMMIT)
+.env
+.env.*
+**/.env
+**/.env.*
+!**/.env.example
+
+# Private bot subscriber state, logs & caches
+data/tg_bot_state.json
+data/tier3_passive_recon.json
+*.log
+__pycache__/
+*.pyc
+
+# Internal workspace notes, VDS operational scripts & media studio assets
+GEMINI.md
+media/
+scripts/render_donald_mayatnik.py
+scripts/vds_deploy.py
+scripts/tier3_passive_recon.py
+docs/DONALD_MAYATNIK_PRODUCTION.md
+
+# Third-party reference clones (canonical stock-tokens.json copied to data/stock-tokens.json)
+reference/

@@ -1,0 +1,32 @@
+[
+  {
+    "label": "WETH",
+    "address": "0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73",
+    "status": "http_403"
+  },
+  {
+    "label": "USDG",
+    "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+    "status": "http_403"
+  },
+  {
+    "label": "L2GatewayRouter",
+    "address": "0x1E324B9316138CA9a73F960213621AD1aaf01B89",
+    "status": "http_403"
+  },
+  {
+    "label": "L2ERC20Gateway",
+    "address": "0xfd9b17206278C16DdaacF6AC8f05dBf97EdCb31e",
+    "status": "http_403"
+  },
+  {
+    "label": "L2ArbCustomGateway",
+    "address": "0x912285144fC0f6e89d3Ed16F5Ab72f87A1878959",
+    "status": "http_403"
+  },
+  {
+    "label": "L2WethGateway",
+    "address": "0x1D187C3E2dA52D72BC9C41e3AbA0fdFa6a7bF055",
+    "status": "http_403"
+  }
+]

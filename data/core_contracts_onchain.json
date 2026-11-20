@@ -1,0 +1,65 @@
+[
+  {
+    "label": "WETH",
+    "address": "0x0Bd7D308f8E1639FAb988df18A8011f41EAcAD73",
+    "bytecode_bytes": 2202,
+    "eip1967_implementation": "0xc6b81b429797e0f555440b70cd99e032d7ae947e",
+    "eip1967_beacon": null,
+    "eip1967_admin": "0xa3acd31afb851b4eb9dad00f5204c01d924267df",
+    "blockscout": "http_403"
+  },
+  {
+    "label": "USDG",
+    "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+    "bytecode_bytes": 170,
+    "eip1967_implementation": "0x68184c449e1a8f34fa18d289737129fd27b66f8f",
+    "eip1967_beacon": null,
+    "eip1967_admin": null,
+    "blockscout": "http_403"
+  },
+  {
+    "label": "StockTokenBeacon",
+    "address": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+    "bytecode_bytes": 2332,
+    "eip1967_implementation": null,
+    "eip1967_beacon": null,
+    "eip1967_admin": null,
+    "blockscout": "http_403"
+  },
+  {
+    "label": "L2GatewayRouter",
+    "address": "0x1E324B9316138CA9a73F960213621AD1aaf01B89",
+    "bytecode_bytes": 2202,
+    "eip1967_implementation": "0x030c64a359be400af05f9230a6f65f30537cdd12",
+    "eip1967_beacon": null,
+    "eip1967_admin": "0xa3acd31afb851b4eb9dad00f5204c01d924267df",
+    "blockscout": "http_403"
+  },
+  {
+    "label": "L2ERC20Gateway",
+    "address": "0xfd9b17206278C16DdaacF6AC8f05dBf97EdCb31e",
+    "bytecode_bytes": 2202,
+    "eip1967_implementation": "0xdf988cf6d83ebd578f6801820d01fee7280886d6",
+    "eip1967_beacon": null,
+    "eip1967_admin": "0xa3acd31afb851b4eb9dad00f5204c01d924267df",
+    "blockscout": "http_403"
+  },
+  {
+    "label": "L2ArbCustomGateway",
+    "address": "0x912285144fC0f6e89d3Ed16F5Ab72f87A1878959",
+    "bytecode_bytes": 2202,
+    "eip1967_implementation": "0x833608d6d6769e8bba82731f628cb2c68ad87c64",
+    "eip1967_beacon": null,
+    "eip1967_admin": "0xa3acd31afb851b4eb9dad00f5204c01d924267df",
+    "blockscout": "http_403"
+  },
+  {
+    "label": "L2WethGateway",
+    "address": "0x1D187C3E2dA52D72BC9C41e3AbA0fdFa6a7bF055",
+    "bytecode_bytes": 2202,
+    "eip1967_implementation": "0x0354a93fe0db94bb72ec053f43301746fc806edf",
+    "eip1967_beacon": null,
+    "eip1967_admin": "0xa3acd31afb851b4eb9dad00f5204c01d924267df",
+    "blockscout": "http_403"
+  }
+]

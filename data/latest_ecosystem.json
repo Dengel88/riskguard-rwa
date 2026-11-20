@@ -1,0 +1,53 @@
+{
+  "scannedAtIso": "2026-11-16T14:27:39.728Z",
+  "blockNumber": 115830554,
+  "gasPriceGwei": 0.02079,
+  "wethPriceUsd": 1787,
+  "usdgTotalSupplyUsd": 630409655.113425,
+  "wethTotalSupply": 38415.16082368414,
+  "wethTotalTvlUsd": 68647892.39192356,
+  "lighterVaultUsdgUsd": 92230987.50621,
+  "lighterVaultEthUsd": 1440.99936235,
+  "layerZero": {
+    "localEid": 30416,
+    "endpointV2": "0x6F475642a6e85809B1c36Fa62763669b1b48DD5B",
+    "usdgOftAdapter": "0x0d54755f5106BfdB43f7a35f5D49a23F940628d1",
+    "activeCorridorsCount": 2,
+    "activeCorridors": [
+      {
+        "dstEid": 30101,
+        "chainName": "Ethereum",
+        "peerBytes32": "0x000000000000000000000000147bde4f997f0d4c7544ed0c55eacf1e5e6bf9c4",
+        "quote50UsdgFeeEth": 0.001550511536090565,
+        "quote50UsdgFeeUsd": 2.7708
+      },
+      {
+        "dstEid": 30168,
+        "chainName": "Solana",
+        "peerBytes32": "0x5a65eac46fc8467523fc7f74da3af67efdda34a30f6814d86108a3541691f961",
+        "quote50UsdgFeeEth": 0.001081036192800843,
+        "quote50UsdgFeeUsd": 1.9318
+      }
+    ]
+  },
+  "pointsProtocols": [
+    {
+      "name": "Lighter Perp DEX ($LIT Incentives)",
+      "status": "LIVE ON MAINNET (4663)",
+      "onchainMetric": "$92.23M USDG locked in vault 0x94bA...fF9d",
+      "lowBudgetPlay": "Deposit $25-$50 USDG, place zero/low-slippage maker limit orders on liquid pairs or hedge spot Stock Token exposure to farm $LIT points without burning taker fees."
+    },
+    {
+      "name": "Arcus (Season 1 Points — RWA RFQ + Tokenized Perps)",
+      "status": "SEASON 1 ACTIVE",
+      "onchainMetric": "0% fee RFQ spot Stock Tokens + ERC-20 transferable perp positions",
+      "lowBudgetPlay": "Execute 0%-fee spot RWA trades via Robinhood Wallet DApp browser + hold small cross-margined Stock Token collateral to accrue Season 1 volume & holding points."
+    },
+    {
+      "name": "LayerZero V2 (Endpoint EID 30416 + USDG OFT)",
+      "status": "LIVE ON MAINNET (4663)",
+      "onchainMetric": "EndpointV2 0x6F47...DD5B | 2 active USDG OFT peer corridors",
+      "lowBudgetPlay": "Route initial & rebalancing USDG capital through verified LayerZero OFT corridors instead of CEX-only transfers to record organic EID 30416 omnichain volume."
+    }
+  ]
+}
