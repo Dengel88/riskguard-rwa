@@ -3,7 +3,8 @@
 > **Primary Open Track (ACTIVE NOW — Deadline: Dec 6, 2026):** **Arbitrum Mentorship Program — Cohort 2 (Arbitrum Foundation × Robinhood Chain)** ([mentorship.arbitrum.io](https://mentorship.arbitrum.io/)) & **Arbitrum Open House ($1M Robinhood Chain Builder Pool)**  
 > **Primary Grant Track (Upcoming Window / Season 4):** **Arbitrum Foundation Grant Program / Arbitrum D.A.O. Grant Program (Orbit Chains & Dev Tooling)** — **$45,000 USD in ARB** (3 Milestones)  
 > **Parallel Ecosystem Subsidies (ACTIVE NOW):** **Arbitrum Security Program** (Audit Subsidy) • **Arbitrum Dune Credit Program** • **ArbiFuel**  
-> **Target Network:** **Robinhood Chain** (Arbitrum Orbit L2, `chainId: 4663`, LayerZero `EID: 30416`)
+> **Target Network:** **Robinhood Chain** (Arbitrum Orbit L2, `chainId: 4663`, LayerZero `EID: 30416`)  
+> **Open-Source Repository:** https://github.com/Dengel88/riskguard-rwa
 
 ---
 
@@ -120,12 +121,13 @@ Unlike paper pitches, our core infrastructure is already live and running contin
 ---
 
 ### 8. Team, Roles, KYC/KYB Readiness & Prior Open-Source Track Record
-Built by the **Syndicate** Web3 × AI engineering team (`https://github.com/Dengel88/`):
+Built by the **Syndicate** Web3 × AI engineering team ([GitHub](https://github.com/Dengel88/riskguard-rwa)):
 
-* **Founder / Product Architect & Lead Production — Демиург (`Dengel88`):** on-chain strategy, protocol partnerships, security scoping, and institutional video/developer media production (`D:\AI\freefield` studio).
+* **Founder / Product Architect & Lead Production — Demiurg ([`Dengel88`](https://github.com/Dengel88)):** on-chain RWA strategy, protocol partnerships, security scoping, and institutional video/developer media production.
 * **Systems & Smart-Contract Engineering — Syndicate Engineering (`Solidity / Foundry / TypeScript / MCP`):** architecture, `RiskGuardRouter.sol` / `RiskGuardAgentVault.sol`, `Multicall3` & `x402` stack.
 * **Compliance & KYC/KYB:** **100% ready to complete full Arbitrum Foundation / entity KYC & KYB verification**, multisig milestone reporting, and grant agreement execution immediately upon selection.
 * **Verified Prior Open-Source Projects:**
+  * [`riskguard-rwa`](https://github.com/Dengel88/riskguard-rwa) *(Live on Robinhood Chain 4663)* — open-source ERC-8056 oracle safety router, bounded agent vault, `Multicall3` telemetry & MCP/`x402` stack.
   * [`near-agent-guard`](https://github.com/Dengel88/near-agent-guard) *(NEAR Hackathon)* — safety & guardrail architecture for autonomous on-chain agents.
   * [`synndicate-whale-auditor`](https://github.com/Dengel88/synndicate-whale-auditor) — autonomous on-chain security auditor analyzing live token contracts for honeypots/hidden taxes before execution.
   * [`arc-invoicing`](https://github.com/Dengel88/arc-invoicing) — non-custodial cross-border USDC settlement protocol (Solidity + Foundry + React).
